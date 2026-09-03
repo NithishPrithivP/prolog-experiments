@@ -37,4 +37,4 @@ state(X,Y) :-
     state(X,0).
 
 goal :-
-    state(0,0).
+    state(0,0).__
